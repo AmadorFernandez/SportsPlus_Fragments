@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="@string/action_add_sport"
+        android:id="@+id/action_add"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_input_add"
+        />
+
+    <item
+        android:title="@string/action_order_alf"
+        android:icon="@android:drawable/ic_menu_sort_alphabetically"
+        app:showAsAction="always"
+        android:id="@+id/action_order_alf"
+        />
+
+
+    <item
+        android:title="@string/action_filter"
+        android:icon="@android:drawable/ic_menu_sort_alphabetically"
+        app:showAsAction="never"
+        android:id="@+id/action_filter"
+        />
+
+    <item
+        android:title="@string/action_all_sports"
+        android:icon="@android:drawable/ic_menu_sort_alphabetically"
+        app:showAsAction="never"
+        android:id="@+id/action_all_sports"
+        />
+
+
+
+
+</menu>

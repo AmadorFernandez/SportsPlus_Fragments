@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PruebaExamen</string>
+    <string name="text_user_mail">Email</string>
+    <string name="text_user_name">Nombre</string>
+    <string name="text_login">Conectar</string>
+    <string name="incorret_format_mail">Formato de email incorrecto</string>
+    <string name="incorret_format_name">Minimo 3 caracteres</string>
+    <string name="see_sports_list">Ver lista de deportes</string>
+    <string name="see_user_preferences">Ver datos de usuario</string>
+    <string name="delete_user_preferences">Borrar datos de usuario</string>
+    <string name="delete_user_title">Alerta</string>
+    <string name="delete_user_msg">¿Esta seguro de que desea eliminar sus datos de usuario?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancelar</string>
+    <string name="user_name_title">Nombre</string>
+    <string name="user_name_summary">Nombre de usuario en la aplicacion</string>
+    <string name="user_mail_title">Email</string>
+    <string name="user_mail_summary">Correo electronico del usuario</string>
+    <string name="list_title">Selecciona tus deportes favoritos y pulsa aceptar para guardar</string>
+    <string name="text_save">Guardar</string>
+    <string name="action_order_alf">Orden alfabetico</string>
+    <string name="action_filter">Filtrar deportes</string>
+    <string name="text_acept">Ok</string>
+    <string name="action_all_sports">Todos los deportes</string>
+    <string name="pref_save">Preferencias guardadas</string>
+    <string name="action_delete_sport">Borrar deporte</string>
+    <string name="action_update_sport">Modificar deporte</string>
+    <string name="alert">Atencion!!!</string>
+    <string name="ask_delete">¿Esta seguro que desea eliminar este deorte?</string>
+    <string name="text_like">Me gusta</string>
+    <string name="no_empty_name">El nombre no puede estar en blanco</string>
+    <string name="add_sport">Deporte añadido a la lista</string>
+    <string name="sport_invalid">El deporte ya esta incluido en la lista</string>
+    <string name="update_sport">Deporte modificado</string>
+    <string name="action_add_sport">Añadir un deporte</string>
+</resources>

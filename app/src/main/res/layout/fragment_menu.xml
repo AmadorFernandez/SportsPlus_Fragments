@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/see_sports_list"
+        android:drawableLeft="@drawable/ic_action_list"
+        android:gravity="center"
+        android:id="@+id/txvList"
+        />
+
+    <TextView
+        android:id="@+id/txvDataUser"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/see_user_preferences"
+        android:drawableLeft="@drawable/ic_action_list"
+        android:gravity="center"
+        android:layout_below="@+id/txvList"
+        />
+
+
+    <TextView
+        android:id="@+id/txvDeleteDataUser"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/delete_user_preferences"
+        android:drawableLeft="@drawable/ic_action_list"
+        android:gravity="center"
+        android:layout_below="@+id/txvDataUser"
+        />
+
+
+
+
+
+</RelativeLayout>
